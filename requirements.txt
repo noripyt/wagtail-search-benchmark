@@ -1,0 +1,4 @@
+Django>=2.0,<2.1
+https://github.com/wagtail/wagtail/archive/0161f2664b8968b6d5649074d3d044a312f1f1c9.tar.gz
+psycopg2-binary==2.7.5
+elasticsearch==6.3.0
